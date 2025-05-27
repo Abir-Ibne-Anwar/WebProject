@@ -177,7 +177,7 @@ header h1 span {
 }
 
 .target-card {
-  padding: 40px 100px;
+  padding: 40px 90px;
   background-image: linear-gradient(#e6edf9, #9de5ff);
   border-radius: 20px;
   box-shadow: 0 10px 10px #8e8e8ed2;
@@ -204,7 +204,7 @@ header h1 span {
 #target-card-container {
   display: flex;
   justify-content: space-around;
-  gap: 40px;
+  gap: 35px;
 }
 
 #name h3 {
